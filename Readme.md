@@ -23,39 +23,39 @@ I'm a passionate Full Stack Developer from India with expertise in building robu
 
 📈 Activity Dashboard
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/github/followers/abhishek-sde-singh?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/abhishek-sde-singh?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/commit-activity/m/abhishek-sde-singh/abhishek-sde-singh?label=Commits&style=flat-square&color=green" alt="Commit Activity" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=abhishek-sde-singh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/last-commit/abhishek-sde-singh/abhishek-sde-singh?label=Last%20Commit&style=flat-square&color=orange" alt="Last Commit" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square" alt="Open Source Love" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/abhishek-sde-singh/abhishek-sde-singh?label=Commits&style=flat-square&color=green" alt="Commit Activity" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek-sde-singh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/abhishek-sde-singh/abhishek-sde-singh?label=Last%20Commit&style=flat-square&color=orange" alt="Last Commit" />
+</div>
 🚀 Tech Stack
 <div align="center">
   
+  <!-- Frontend Core -->
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
+  <!-- Frontend Frameworks & Libraries -->
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  <!-- Testing & Performance -->
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  
+  <!-- Backend & Database -->
   ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+  
+  <!-- Additional Skills -->
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
