@@ -5,7 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/abhishek-sde-singh/abhishek-sde-singh/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishek-sde-singh/abhishek-sde-singh/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishek-sde-singh/abhishek-sde-singh/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhishek-sde-singh/abhishek-sde-singh/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## 💫 About Me
