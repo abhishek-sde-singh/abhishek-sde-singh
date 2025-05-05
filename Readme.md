@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer from India with expertise in building robu
 <div align="center">
   <img src="https://img.shields.io/github/commit-activity/m/abhishek-sde-singh/abhishek-sde-singh?label=Commits&style=flat-square&color=green" alt="Commit Activity" />
   <img src="https://komarev.com/ghpvc/?username=abhishek-sde-singh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/last-commit/abhishek-sde-singh/abhishek-sde-singh?label=Last%20Commit&style=flat-square&color=orange" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/abhishek-sde-singh/abhishek-sde-singh?label=Last%20Commit%20(IST)&style=flat-square&color=orange&timezone=Asia%2FKolkata" alt="Last Commit" />
 </div>
 🚀 Tech Stack
 <div align="center">
