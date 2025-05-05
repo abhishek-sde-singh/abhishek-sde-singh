@@ -62,14 +62,11 @@ Show Image
 </div>
 📊 GitHub Stats
 <div align="center">
-  <!-- Updated GitHub Stats card with include_all_commits=true and count_private=true -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-sde-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <br/>
+  <!-- Languages card with higher count and compact layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sde-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
   <!-- GitHub Streak with updated parameters -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-sde-singh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <!-- Languages card with higher count and compact layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-sde-singh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 <!-- GitHub Metrics for better stats reporting -->
 <div align="center">
@@ -79,19 +76,12 @@ Show Image
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-sde-singh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-<!-- Trophies with better parameters -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-sde-singh&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abhishekcs001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_abhi_singh.001/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:abhishek.sde.singh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
